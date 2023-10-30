@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ana Merlo</h1>
 <h3 align="center">Passionate Web Developer</h3>
 
-- 🌱 I’m currently learning **React, TypeScript**
+- 🌱 I’m currently learning **Java**
 
 - 💬 Ask me about **web development**
 
