@@ -7,6 +7,13 @@
 - 💬 Ask me about **web development**
 
 - 📫 How to reach me **anamerlo_me@hotmail.com**
+- ## Technologies :fire:
+- Front-end **React.js**.
+- Back-end **Java**.
+- Mobile application development using **Android (Java)**.
+- React Native
+- Docker
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
