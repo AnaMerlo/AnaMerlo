@@ -1,8 +1,8 @@
 ### 
 <h1 align="center">Hi 👋, I'm Ana Merlo</h1>
-<h3 align="center">Passionate Web Developer</h3>
+<h3 align="center">Passionate Full Stack Web Developer</h3>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **AWS**
 
 - 💬 Ask me about **web development**
 
