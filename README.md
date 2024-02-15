@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **AWS**
 
-- 💬 Ask me about **web development**
+
 
 
   ## Technologies :fire:
